@@ -1,0 +1,1 @@
+# AlphaFold-Prediction-For-Binding-Region-of-P.Aeruginosa
